@@ -1,6 +1,7 @@
 # Diccionario de Datos
 Base de Datos de Contrataciones del Departamento de la ciudad de la Paz por municipios
 
+
 id .- Codigo Unico de Identificación 
 anio .- Año
 cuce .- Codigo Unico de Contrataciones Estatales
