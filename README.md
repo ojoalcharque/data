@@ -30,7 +30,7 @@ Base de Datos de Contrataciones del Departamento de la ciudad de la Paz por muni
 
 # Formato de Archivos
 
-El archivo se Encuentra en formato CSV.
+El archivo se Encuentra en formato CSV y Excel
 
 # Fuente de Datos 
 
